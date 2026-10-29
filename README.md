@@ -1,19 +1,23 @@
-# TAG — privacy e richieste di eliminazione
+# TAG — privacy, termini e richieste di eliminazione
 
 Edizione: **2026-10-29-online-v1**, revisione 29/10/2026.
+
+Termini di utilizzo: **2026-10-29-terms-v1**, revisione29/10/2026.
+I termini sono un accordo separato dalla presa visione della privacy;
+l’aggiunta dei collegamenti non modifica l’edizione né il testo privacy.
 
 Per **TAG • Trigger Antidote Gambit**, Android `com.propinosoftware.tag`.
 Titolare: Giuseppe Papa (PropinoSoftware). Privacy, servizio clienti e richieste
 di eliminazione: `propinosoftware@gmail.com`, confermato dall'utente il 29/10/2026.
 
-| Lingua | Privacy | Richiesta eliminazione account |
-| --- | --- | --- |
-| Italiano | `index.html` | `account-deletion.html` |
-| English | `privacy-en.html` | `account-deletion-en.html` |
-| Deutsch | `privacy-de.html` | `account-deletion-de.html` |
-| Français | `privacy-fr.html` | `account-deletion-fr.html` |
-| Español | `privacy-es.html` | `account-deletion-es.html` |
-| Português (Portugal) | `privacy-pt.html` (`lang="pt-PT"`) | `account-deletion-pt.html` |
+| Lingua | Privacy | Richiesta eliminazione account | Termini di utilizzo |
+| --- | --- | --- | --- |
+| Italiano | `index.html` | `account-deletion.html` | `terms.html` |
+| English | `privacy-en.html` | `account-deletion-en.html` | `terms-en.html` |
+| Deutsch | `privacy-de.html` | `account-deletion-de.html` | `terms-de.html` |
+| Français | `privacy-fr.html` | `account-deletion-fr.html` | `terms-fr.html` |
+| Español | `privacy-es.html` | `account-deletion-es.html` | `terms-es.html` |
+| Português (Portugal) | `privacy-pt.html` (`lang="pt-PT"`) | `account-deletion-pt.html` | `terms-pt.html` |
 
 Ogni pagina contiene navigazione alle sei lingue, brand e pacchetto, contatto
 e link pertinente privacy/eliminazione. L'email è un canale per iniziare una
@@ -44,7 +48,10 @@ Sito: [TAG Privacy Policy](https://alleyesonmegp-source.github.io/tag-privacy-po
 - La presa visione obbligatoria nell'app non equivale a consenso indistinto
   per ogni trattamento. Le eventuali scelte di consenso richiedono flussi
   separati quando applicabili.
-- Aggiornare insieme i 12 HTML per mantenere allineate le sei lingue.
+- Aggiornare insieme i 18 HTML per mantenere allineate le sei lingue.
+- I termini sono un accordo d'uso separato dalla presa visione privacy e da
+  eventuali consensi specifici. Le traduzioni e le verifiche tecniche non
+  costituiscono una certificazione di conformità legale.
 
 Non includere credenziali, keystore, configurazioni riservate o dati dei
 giocatori nel repository del sito.
