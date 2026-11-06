@@ -1,10 +1,10 @@
 # TAG — privacy, termini e richieste di eliminazione
 
-Edizione: **2026-10-29-online-v1**, revisione 29/10/2026.
+Edizione: **2026-11-06-social-push-v1**, revisione 06/11/2026 (candidata, non pubblicata).
 
 Termini di utilizzo: **2026-10-29-terms-v1**, revisione29/10/2026.
 I termini sono un accordo separato dalla presa visione della privacy;
-l’aggiunta dei collegamenti non modifica l’edizione né il testo privacy.
+La revisione privacy social/push è distinta dai Termini, la cui edizione resta invariata.
 
 Per **TAG • Trigger Antidote Gambit**, Android `com.propinosoftware.tag`.
 Titolare: Giuseppe Papa (PropinoSoftware). Privacy, servizio clienti e richieste
@@ -55,3 +55,10 @@ Sito: [TAG Privacy Policy](https://alleyesonmegp-source.github.io/tag-privacy-po
 
 Non includere credenziali, keystore, configurazioni riservate o dati dei
 giocatori nel repository del sito.
+
+## Revisione social/push candidata
+
+Sei informative aggiornate: scelta facoltativa, FCM e identificativi, revoca,
+job terminali e registro esiti, pulizia differita. Il sito non modifica i
+consensi o le app già installate. Pubblicare solo dopo consenso specifico,
+con controllo del ramo remoto e degli hash; dichiarazioni Play separate.
